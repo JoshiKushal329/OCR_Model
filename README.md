@@ -26,3 +26,4 @@ This model demonstrates a powerful approach to handwriting recognition, making i
 * **`ocr_model_saved.keras`:** The saved, trained model for deployment.
 * **`Documentation.pdf`:** Detailed documentation on the project, including model architecture, training process, and usage instructions.
 * **`test_image.png`:** A sample image used for testing the model's performance.
+# OCR
